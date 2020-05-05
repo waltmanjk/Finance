@@ -1,6 +1,4 @@
-# Finance
-
-Projects: Simple Finance Dashboard
+# Project: Simple Finance Dashboard
 
 Dashboard was created as a way to practice python programming skills, data analytics, and track personal finances with a number of helpful visualizations.
 
@@ -20,7 +18,7 @@ Dashboard was created as a way to practice python programming skills, data analy
 
 Three mutual funds and a bond fund: Vanguard Wellington, Fidelity Puritan, SPDR S&P 500, and the iShares US Aggregate Bond fund.  Biweekly contributions are made to each fund and dividends are reinvested.  Reflects prices from 2015 to 2020.
     
-Data Workflow to create Finance Dashboard
+# Data Workflow to create Finance Dashboard
 
     1. Pulling daily stock data from an API and loading it into a SQLite database
     2. Add in your own Finance data: dummy_cost_unit shows the schema to load transactional data from investment accounts
