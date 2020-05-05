@@ -16,7 +16,7 @@ Dashboard was created as a way to practice python programming skills, data analy
     
 # Portfolio Assumptions    
 
-Three mutual funds and a bond fund: Vanguard Wellington, Fidelity Puritan, SPDR S&P 500, and the iShares US Aggregate Bond fund.  Biweekly contributions are made to each fund and dividends are reinvested.  Reflects prices from 2015 to 2020.
+Three mutual funds and a bond fund: Vanguard Wellington, Fidelity Puritan, SPDR S&P 500 ETF, and the iShares US Aggregate Bond fund.  Biweekly contributions are made to each fund and dividends are reinvested.  Reflects prices from 2015 to 2020.
     
 # Data Workflow to create Finance Dashboard
 
