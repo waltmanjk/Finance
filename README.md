@@ -12,9 +12,13 @@ Dashboard was created as a way to practice python programming skills, data analy
     
 	Finance_Dashboard.db :: SQLite database to write and load data for Dash app
     
-	dummy_cost_unit.csv :: Schema for working with investment data (symbol, transaction type, number of shares, principal, etc)
+	dummy_cost_unit.csv :: Investment Portfolio data.  Example schema used for each transaction of investments.
     
 	dummy_quotes.csv :: Daily Market Close of investments to benchmark with mutual fund / ETF / stock purchases and sells
+    
+Portfolio Assumptions    
+
+Three mutual funds and a bond fund: Vanguard Wellington, Fidelity Puritan, SPDR S&P 500, and the iShares US Aggregate Bond fund.  Biweekly contributions are made to each fund and dividends are reinvested.  Reflects prices from 2015 to 2020.
     
 Data Workflow to create Finance Dashboard
 
