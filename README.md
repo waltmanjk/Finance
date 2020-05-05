@@ -2,7 +2,7 @@
 
 Dashboard was created as a way to practice python programming skills, data analytics, and track personal finances with a number of helpful visualizations.
 
- 	Dash_Investment_Portfolio.gif :: .GIF file to illustrate launching the Dash app and look of the Finance Dashboard
+ 	Dash_Investment_Portfolio.gif :: Make sure to download.  .GIF file to illustrate launching the Dash app and look of the Finance Dashboard
     
 	Dash_Investment_Portfolio.ipynb :: Jupyter Notebook code to walk thru creation of Dash app
     
